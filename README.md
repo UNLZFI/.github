@@ -4,6 +4,9 @@ Universidad Nacional de Lomas de Zamora - Facultad de Ingeniería
 📚 Repositorios de Proyectos
 Carrera: Ingeniería Mecatrónica
 
+Ver proyectos
+https://unlz-fi.github.io/
+
 🎯 Objetivo
 En la Facultad de Ingeniería, nos dedicamos a formar profesionales con un enfoque integral en el desarrollo de tecnologías avanzadas, especialmente en áreas como la robótica, electrónica, programación e inteligencia artificial.
 
