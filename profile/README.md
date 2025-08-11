@@ -38,6 +38,11 @@ Antes de usar o modificar un proyecto, revisa el archivo **LICENSE** (si está d
 
 ---
 
+Más información: https://unlzfi.github.io/
+Repositorio: https://github.com/orgs/UNLZFI/repositories
+
+---
+
 ## 📬 Contacto
 
 **Facultad de Ingeniería – UNLZ**  
