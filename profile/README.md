@@ -38,8 +38,9 @@ Antes de usar o modificar un proyecto, revisa el archivo **LICENSE** (si está d
 
 ---
 
-Más información: https://unlzfi.github.io/
-Repositorio: https://github.com/orgs/UNLZFI/repositories
+Página principal: https://unlzfi.github.io/
+
+Repositorio con los proyectos: https://github.com/orgs/UNLZFI/repositories
 
 ---
 
