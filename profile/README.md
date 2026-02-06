@@ -23,7 +23,7 @@ Para mantener el material organizado, los proyectos se publican en dos ubicacion
 
 ### ✅ PPS (Repositorio de cátedra / docente)
 - **Cuenta:** `cristianlukas`
-- **URL:** [https://github.com/cristianlukas](https://github.com/cristianlukas/repositories)
+- **URL:** h[ttps://github.com/cristianlukas](https://github.com/cristianlukas?tab=repositories)
 - **Uso:** Proyectos de PPS (generalmente más cortos o acotados, muchas veces realizados en universidad o en el trabajo del estudiante).
 
 > **Nota:** Ambos tipos de proyecto utilizan la misma **plantilla de README** para estandarizar presentación, documentación y entregables.
@@ -61,7 +61,7 @@ Antes de usar o modificar un proyecto, revisa el archivo **LICENSE** (si está d
 
 - Página principal: https://unlzfi.github.io/  
 - Repositorios (Proyecto Final – UNLZFI): https://github.com/orgs/UNLZFI/repositories  
-- Repositorios (PPS – cristianlukas): https://github.com/cristianlukas/repositories
+- Repositorios (PPS – cristianlukas): https://github.com/cristianlukas?tab=repositories
 
 ---
 
