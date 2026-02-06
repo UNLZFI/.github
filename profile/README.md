@@ -18,12 +18,12 @@ Para mantener el material organizado, los proyectos se publican en dos ubicacion
 
 ### ✅ Proyecto Final (Repositorio institucional)
 - **Organización:** `UNLZFI`
-- **URL:** https://github.com/UNLZFI
+- **URL:** [https://github.com/UNLZFI](https://github.com/orgs/UNLZFI/repositories)
 - **Uso:** Proyectos finales / tesis de Ingeniería Mecatrónica (trabajos extensos, documentados y con entregables completos).
 
 ### ✅ PPS (Repositorio de cátedra / docente)
 - **Cuenta:** `cristianlukas`
-- **URL:** https://github.com/cristianlukas
+- **URL:** [https://github.com/cristianlukas](https://github.com/cristianlukas/repositories)
 - **Uso:** Proyectos de PPS (generalmente más cortos o acotados, muchas veces realizados en universidad o en el trabajo del estudiante).
 
 > **Nota:** Ambos tipos de proyecto utilizan la misma **plantilla de README** para estandarizar presentación, documentación y entregables.
@@ -61,7 +61,7 @@ Antes de usar o modificar un proyecto, revisa el archivo **LICENSE** (si está d
 
 - Página principal: https://unlzfi.github.io/  
 - Repositorios (Proyecto Final – UNLZFI): https://github.com/orgs/UNLZFI/repositories  
-- Repositorios (PPS – cristianlukas): https://github.com/cristianlukas  
+- Repositorios (PPS – cristianlukas): https://github.com/cristianlukas/repositories
 
 ---
 
